@@ -1,0 +1,13 @@
+Q-1. Introduction to exceptions and how to handle them using try, except, and finally.
+
+ans:
+    In programming, exceptions are events that disrupt the normal flow of program execution.
+
+    1. Try block :- 
+        Contains the code that might raise an exception.
+
+    2. Except block :- 
+        Catches and handles specific errors if they occur.
+
+    3. Finally bolck :-
+        Executes regardless of whether an exception was raised or not.

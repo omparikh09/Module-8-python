@@ -1,0 +1,4 @@
+Q-2. Method overriding: redefining a parent class method in the child class.
+
+ans:
+    Method overriding occurs when a child class redefines a method inherited form its parent class.

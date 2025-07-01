@@ -1,0 +1,29 @@
+Q-1. Opening files in different modes ('r', 'w', 'a', 'r+', 'w+').
+
+ans:
+    Files can be opened in different modes depending on the operation you want to perform.
+
+    1. 'r' Mode :-
+        -> Open file in reading mode.
+        -> You can only read data into the file.
+    
+    2. 'w' Mode :-
+        -> Open file in Write mode.
+        -> You can only write data into the file.
+        -> If file exists, it will be truncated(overwritten).
+        -> If file not exists, it will be created.
+
+    3. 'a' Mode :-
+        -> Open file in Write mode.
+        -> If file exists, new data will be appended to the end of the file.
+        -> If file not exists, it will be created.
+        -> You can only write data to the file.
+
+    4. 'r+' Mode :-
+        -> Open file in both reading and writing.
+        -> Raises an error if the file does not exist.
+
+    5. 'w+' Mode :-
+        -> Open file in both reading and writing.
+        -> If file exists, it will be truncated.
+        -> If file not exist, it will created.

@@ -1,0 +1,7 @@
+Hello, Om! Learning file handling in Python.
+Writing multiple strings into a file.
+
+-> Hello, all!
+How are you guys.
+I am fine
+    

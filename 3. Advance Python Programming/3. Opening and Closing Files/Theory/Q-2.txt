@@ -1,0 +1,6 @@
+Q-2. Using the open() function to create and access files.
+
+ans:
+    The open() function in Python is used to create, read, write, and manipulate files. Which allows 
+    you to perform operations on the file.
+

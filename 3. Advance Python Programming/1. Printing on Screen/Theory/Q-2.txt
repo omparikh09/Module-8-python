@@ -1,0 +1,10 @@
+Q-2. Formatting outputs using f-strings and format().
+
+ans:
+    1. Using f-string :-
+        Syntax :-
+            print(f"Your text {variable1} and {variable2}")
+
+    2. Using format() :-
+        Syntax :-
+            print("Your text {} and {}".format(variable1, variable2))

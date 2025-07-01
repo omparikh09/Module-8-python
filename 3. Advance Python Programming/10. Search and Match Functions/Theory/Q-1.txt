@@ -1,0 +1,11 @@
+Q-1. Using re.search() and re.match() functions in Python’s re module for pattern matching.
+
+ans:
+    1. re.match() :-
+        -> Matchs only at the beginning of string.
+        -> When you want to check the start.
+
+    2. re.search() :-
+        -> Search anywhere in the string.
+        -> Where you went to find match anywhere. 
+        

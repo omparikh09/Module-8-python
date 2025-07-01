@@ -1,0 +1,10 @@
+Q-2. Understanding multiple exceptions and custom exceptions.
+
+ans:
+    1. Multiple Exceptions :- 
+        Python allows you to handle multiple types of exceptions within a single try-except block.
+        This enhances code readability.
+
+    2. Custom Exceptions :-
+        You can create your own exceptions by creating custom exception classes. This improves code 
+        clarity and provides more informative error messages.

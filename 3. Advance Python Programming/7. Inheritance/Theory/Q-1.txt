@@ -1,0 +1,19 @@
+Q-1. Single, Multilevel, Multiple, Hierarchical, and Hybrid inheritance in Python.
+
+ans:
+    Inheritance allows one class to use properties and behaviors of another class, promoting code reuse and structure.
+
+    1. Single Inheritance :-
+        A Child class inherits from one parent class.
+
+    2. Multiple Inheritance :-
+        A Child class inherits from parent class.
+
+    3. Multilevel Inheritance :-
+        A child inherits from a parent class, which itself inherits from another parent class.
+
+    4. Hierarchical Inheritance :-
+        Multiple child class inherit from a single parent class.
+    
+    5. Hybrid Inheritance :-
+        A mix of different types of inheritance in one structure.

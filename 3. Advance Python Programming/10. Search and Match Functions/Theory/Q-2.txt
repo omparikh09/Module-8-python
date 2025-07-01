@@ -1,0 +1,12 @@
+Q-2. Difference between search and match.
+
+ans:
+    1. re.match() :-
+        -> Checks for the match only at the start of the string.
+        -> Only beginning of the string.
+        -> Match object if pattern is at start.
+
+    2. re.search() :-
+        -> Search for a match anywhere in the string.
+        -> anywhere in the string.
+        -> Match object if pattern is found anywhere.

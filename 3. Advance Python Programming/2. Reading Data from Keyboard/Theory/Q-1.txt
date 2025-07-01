@@ -1,0 +1,6 @@
+Q-1. Using the input() function to read user input from the keyboard.
+
+ans:
+    The input() function in Python is used to read user input from the keyboard.
+
+    

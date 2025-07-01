@@ -1,0 +1,8 @@
+Q-2. Difference between local and global variables.
+
+ans:
+    1. Local Variables :-
+        Declared inside a function and can only be accessed within that function.
+
+    2. Global Variables :-
+        Declared outside a function and can be accessed anywhere in the program.

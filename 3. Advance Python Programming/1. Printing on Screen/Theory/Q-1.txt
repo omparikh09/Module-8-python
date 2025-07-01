@@ -1,0 +1,5 @@
+Q-1. Introduction to the print() function in Python.
+
+ans:
+    Print is a in-built function it's use for display output in console screen.
+    

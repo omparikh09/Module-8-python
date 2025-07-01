@@ -1,0 +1,11 @@
+Q-2. Converting user input into different data types (e.g., int, float, etc.).
+
+ans:
+    User input is always read as a string by default. To work with different data types, you need to convert 
+    the input using built-in functions.
+
+    1. int() :-
+        Converts a string or a number to an integer.
+
+    2. float() :-
+        Converts a string or a number to a floating numbers.

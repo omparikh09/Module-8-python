@@ -1,0 +1,5 @@
+Q-3. Closing files using close().
+
+ans:
+    the close() method is used to close a file after performing operations like reading or writing.
+    

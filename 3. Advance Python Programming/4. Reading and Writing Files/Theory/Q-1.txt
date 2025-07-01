@@ -1,0 +1,11 @@
+Q-1. Reading from a file using read(), readline(), readlines().
+
+ans:
+    1. read() :-
+        Read the content of file as single string.
+
+    2. readline() :-
+        Reads one line at a time.
+
+    3. readlines() :-
+        Reads all lines and returns them as a list of strings.

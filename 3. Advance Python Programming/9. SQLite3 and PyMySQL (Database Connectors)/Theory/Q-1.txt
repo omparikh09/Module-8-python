@@ -1,0 +1,9 @@
+Q-1. Introduction to SQLite3 and PyMySQL for database connectivity.
+
+ans:
+    1. SQLite3 :- 
+        SQLite3 is a serverless, self-contained SQL database engine that comes bundled with Python
+        ideal for applications needing a simple, file-based database.
+
+    2. PyMySQL :-
+        PyMySQL is a pure-Python MySQL client that lets you connect to MySQL and MariaDB database.

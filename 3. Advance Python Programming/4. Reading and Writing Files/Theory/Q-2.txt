@@ -1,0 +1,8 @@
+Q-2. Writing to a file using write() and writelines().
+
+ans:
+    1. write() :-
+        Writes a single string to a file.
+
+    2. writelines() :-
+        Writes a list of strings to the file.

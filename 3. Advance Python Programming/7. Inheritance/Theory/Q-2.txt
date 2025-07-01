@@ -1,0 +1,6 @@
+Q-2. Using the super() function to access properties of the parent class.
+
+ans:
+    Use super() function allows a child class to access methods and properties of its parent class.
+    This is useful when overriding methods or needing to call the parent class constructor.
+    

@@ -1,0 +1,6 @@
+Q-1.Method overloading: defining multiple methods with the same name but different parameters.
+
+ans:
+    Python does not support traditional method overloading like Java or C++. However, you can achieve similar 
+    functionality using default arguments or *args.
+
